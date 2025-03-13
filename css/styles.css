@@ -1,0 +1,158 @@
+body{
+    font-family: Roboto, sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+} /*Стилізація body*/
+link{
+    text-decoration: none;
+} /*Оформлення лінків*/
+ul{
+    list-style-type: none;
+} /*Забирає крапки в списках*/
+.logo_site{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+} /*Логотип сайту*/
+.span_studio{
+    color: #2e2f42;
+} /*Офрмлення "studio"*/
+.nav_link{
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+} 
+.nav_link:hover{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #404bbf;
+}
+.nav_link:focus{
+    font-style: normal;
+    color: #404bbf;
+}/*Навігація сайту*/
+.header_adres{
+    font-style: normal;
+} 
+.header_contacts{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+.header_contacts:hover{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+.header_contacts:focus{
+    color: #404bbf;
+} /*Адресна інформація*/
+.button_first_section{
+    background: #4d5ae5;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.button_first_section:hover{
+
+    background: #404bbf;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.button_first_section:focus{
+    background-color: #404BBF;
+}
+/*Оформлення кнопки*/
+.first_section{
+    background-color: #2e2f42;
+}
+.first_section_header{
+    font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+} /*Перша секція*/
+.second_section{
+    background: #f4f4fd;
+} /*Друга секція*/
+.heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  } /*Хедер*/
+  .paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+  } /*Параграф*/
+  
+.triple_section{
+    background-color: #F4F4FD;
+} /*Третя секція*/
+.header_pages{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+} /*Третя секція-заголовок 2*/
+.header_pages_list{
+    background-color: #FFFFFF;
+}/*Третя секція-список-фон*/
+.thirdh_section {
+    background: #fff;
+} /*Четверта секція*/
+.header_thirdh_hd {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+} /*четверта секція-заголовки блоків*/
+.footer {
+    background-color: #2e2f42;
+} /*футер-фон*/
+.footer_paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+    } /*футер-параграф*/
+
+.span_studio_fotter {
+     color: #f4f4fd;
+    } /*спан"STUDIO"*/
+
+
+ 

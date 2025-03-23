@@ -189,13 +189,14 @@ color: #2e2f42;
     display: flex;
 align-items: center;
 gap: 40px;
-padding: 24px 0;
+
 
 }
 .nav_link_list{
 display: flex;
 align-items: center;
 gap: 40px;
+padding: 24px 0;
 }
 .address_contacts_list{
     display: flex;

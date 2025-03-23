@@ -21,6 +21,8 @@ ul{
     text-transform: uppercase;
     color:#4d5ae5;
     margin-right: 76px;
+    margin-left: 156px;
+    margin-top: 24px;
 } /*Логотип сайту*/
 .span_studio{
     color: #2e2f42;
@@ -33,6 +35,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 gap: 40px;
 margin-right: 40px;
+margin-top: 24px;
+align-items: center;
 
 } 
 .nav_link:last-child{
@@ -50,8 +54,9 @@ margin-right: 40px;
     font-style: normal;
     color: #404bbf;
 }/*Навігація сайту*/
-.header_adres{
+.header_adress{
     font-style: normal;
+
 } 
 .header_contacts{
     font-weight: 400;
@@ -59,7 +64,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-
+margin-top: 24px;
+align-items: flex-end;
 }
 .header_contacts:hover{
     font-weight: 400;
@@ -163,15 +169,17 @@ color: #2e2f42;
      color: #f4f4fd;
     } /*спан"STUDIO"*/
     .main_header{
-         border-bottom: 1px solid #e7e9fc;
-         width: 1440px;
-         height: 72px;
+        
     }
 .header_box{
     display: flex;
-    width: 1158px;
+    width: 1440px;
+    height: 72px;
     margin: 0 auto;
     padding: 0 15px;
+    border-bottom: 1px solid #e7e9fc;
+    width: 1440px;
+    height: 72px;
 }
 .header_nav{
     display: flex;
@@ -180,6 +188,8 @@ align-items: flex-start;
 }
 .nav_link_list{
 display: flex;
+
+align-items: center;
 }
 
 

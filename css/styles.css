@@ -90,6 +90,13 @@ gap: 40px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
 }
 .button_first_section:hover{
 
@@ -101,6 +108,7 @@ gap: 40px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+
 }
 .button_first_section:focus{
     background-color: #404BBF;
@@ -108,6 +116,7 @@ gap: 40px;
 /*Оформлення кнопки*/
 .first_section{
     background-color: #2e2f42;
+padding: 188px 0;
 }
 .first_section_header{
     font-weight: 700;
@@ -116,6 +125,8 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+max-width: 496px;
+align-items: center;
 } /*Перша секція*/
 .second_section{
     background: #f4f4fd;
@@ -177,12 +188,12 @@ color: #2e2f42;
     }
 .headers_box{
     display: flex;
-    width: 1440px;
+  
     height: 72px;
     margin: 0 auto;
     padding: 0 15px;
     border-bottom: 1px solid #e7e9fc;
-    width: 1440px;
+  
     height: 72px;
 }
 .header_nav{
@@ -202,5 +213,6 @@ padding: 24px 0;
     display: flex;
     gap: 40px;
 }
-
+.first_section_box{
+}
  

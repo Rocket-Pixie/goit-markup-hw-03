@@ -22,7 +22,7 @@ ul{
     color:#4d5ae5;
     margin-right: 76px;
     margin-left: 156px;
-    margin-top: 24px;
+    gap: 40px;
 } /*Логотип сайту*/
 .span_studio{
     color: #2e2f42;
@@ -65,7 +65,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 margin-top: 24px;
-align-items: flex-end;
+display: flex;
+gap: 40px;
 }
 .header_contacts:hover{
     font-weight: 400;
@@ -183,7 +184,7 @@ color: #2e2f42;
 }
 .header_nav{
     display: flex;
-align-items: flex-start;
+align-items: center;
 
 }
 .nav_link_list{

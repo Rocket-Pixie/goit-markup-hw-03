@@ -3,6 +3,9 @@ body{
     background-color: #ffffff;
     color: #434455;
 } /*Стилізація body*/
+img{
+    display: block;
+}
 link{
     text-decoration: none;
 } /*Оформлення лінків*/
@@ -17,6 +20,7 @@ ul{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
+    margin-right: 76px;
 } /*Логотип сайту*/
 .span_studio{
     color: #2e2f42;
@@ -27,8 +31,13 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+gap: 40px;
+margin-right: 40px;
 
 } 
+.nav_link:last-child{
+    gap: 0;
+}
 .nav_link:hover{
     font-weight: 500;
     font-size: 16px;
@@ -153,6 +162,25 @@ color: #2e2f42;
 .span_studio_fotter {
      color: #f4f4fd;
     } /*спан"STUDIO"*/
+    .main_header{
+         border-bottom: 1px solid #e7e9fc;
+         width: 1440px;
+         height: 72px;
+    }
+.header_box{
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header_nav{
+    display: flex;
+align-items: flex-start;
+
+}
+.nav_link_list{
+display: flex;
+}
 
 
  

@@ -194,7 +194,7 @@ margin-left: 472px;
 
   }
   .second_section_element{
-    width: calc((100% - 72px) / 4)
+    width: calc((100% - 72px) / 4);
   }
   .visually-hidden{
         position: absolute;
@@ -254,7 +254,8 @@ padding: 32px 0;
    /*----------------------------Четверта секція сторінки------------------------------------*/
 .thirdh_section {
     background: #fff;
-    gap: 120px 0;
+    padding-top: 120px; 
+    padding-bottom: 120px;
 }
 .header_thirdh_hd {
     font-weight: 500;

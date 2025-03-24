@@ -19,7 +19,7 @@ ul{
 }
 /*----------------------------Хедер сайту------------------------------------*/
     .main_header{
-    border-bottom: 1px solid #e7e9fc
+    border-bottom: 1px solid #e7e9fc;
     }
     .header_nav{
     display: flex;
@@ -193,7 +193,7 @@ margin: 0 auto;
     gap: 24px;
   }
   .second_section_element{
-width: calc((100% -72px ) / 4 );
+    width: calc((100% - 72px) / 4);
   }
   .visually-hidden{
         position: absolute;

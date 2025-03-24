@@ -271,10 +271,35 @@ margin-left: 156px;
     width: calc(( 100% - 48px ) / 3 );
 }
 
-.banking_app .online_courses .cashless_payment .meditation_app .taxi_service .screen_illustrations{
+.banking_app {
 padding: 32px 16px;
 border: 1px solid #e7e9fc;
 border-top: none;
+}
+.online_courses {
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;    
+}
+.cashless_payment{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;
+}
+..meditation_app{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;    
+}
+.screen_illustrations{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;
+}
+.taxi_service{
+padding: 32px 16px;
+border: 1px solid #e7e9fc;
+border-top: none;    
 }
 
   /*----------------------------Четверта секція сторінки------------------------------------*/

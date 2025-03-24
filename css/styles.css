@@ -239,18 +239,10 @@ min-height: 732px;
     border-radius: 0px 0px 4px 4px;
 }
 
-.mark_guerrero{
+.mark_guerrero .tom_ford .camila_garcia .daniel_wilson{
 padding: 32px 0;
 }
-.tom_ford{
-padding: 32px 0;
-}
-.camila_garcia{
-padding: 32px 0;
-}
-.daniel_wilson{
-padding: 32px 0;
-}
+
    /*----------------------------Третя секція сторінки------------------------------------*/
    /*----------------------------Четверта секція сторінки------------------------------------*/
 .thirdh_section {
@@ -274,7 +266,7 @@ margin-left: 156px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
+   
 }
 .thirdh_pages_list{
     width: calc(( 100% - 48px ) / 3 );

@@ -191,10 +191,9 @@ margin: 0 auto;
   .second_section_list{
     display: flex;
     gap: 24px;
-    flex-basis: calc((100% - 3 * 24px) / 4);
   }
   .second_section_element{
-flex-basis: calc((100% - 3 * 24px) / 4);
+width: calc((100% -72px ) / 4 );
   }
   .visually-hidden{
         position: absolute;

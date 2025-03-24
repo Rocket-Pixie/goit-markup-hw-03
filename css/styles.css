@@ -238,10 +238,9 @@ min-height: 732px;
     border-radius: 0px 0px 4px 4px;
 }
 
-.mark_guerrero .tom_ford .camila_garcia .daniel_wilson{
-padding: 32px 0;
+.mark_guerrero, .tom_ford, .camila_garcia, .daniel_wilson {
+    padding: 32 0;
 }
-
    /*----------------------------Третя секція сторінки------------------------------------*/
    /*----------------------------Четверта секція сторінки------------------------------------*/
 .thirdh_section {

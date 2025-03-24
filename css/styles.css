@@ -238,8 +238,11 @@ min-height: 732px;
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
+.employee{
+    padding: 32px 0;
+}
 .mark_guerrero{
-padding: 32px 0;
+    padding: 32px 0;
 }
 .tom_ford{
 padding: 32px 0;
@@ -255,6 +258,7 @@ padding: 32px 0;
 .thirdh_section {
     background: #fff;
 padding: 120px 0;
+margin-bottom: 8px;
 }
 .header_thirdh_hd {
     font-weight: 500;
